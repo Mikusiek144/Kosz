@@ -1,0 +1,8 @@
+name: KoszPlugin
+version: 1.0
+main: pl.kosz.KoszPlugin
+author: Mikusiek
+commands:
+  kosz:
+    description: Otwiera GUI kosza.
+    usage: /kosz
