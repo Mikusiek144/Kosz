@@ -1,0 +1,10 @@
+KoszPlugin
+        ├── src
+        │   └── main
+        │       ├── java
+        │       │   └── pl
+        │       │       └── kosz
+        │       │           └── KoszPlugin.java
+        │       └── resources
+        │           └── plugin.yml
+        └── pom.xml
